@@ -8,4 +8,4 @@ Download the "Comp" directory with all its contents.
 Copy the "Comp" directory and its contents to "/var/www/html" directory of the vm.
 Open browser and type "localhost/Comp/"
 
-for information on how to use the app plesae read the user manual.
+For information on how to use the app, plesae read the user manual.
