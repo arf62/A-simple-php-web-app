@@ -14,7 +14,7 @@
             <input type="text" name="feedId" required> <br>
             Search Terms:<br>
             <input type="text" name="searchTerms"/> <br>
-            <input type="submit"  name="submitBtn"/>
+            <input type="submit"  value ="submit" name="submitBtn"/>
         </form>
     </div>
 </body>

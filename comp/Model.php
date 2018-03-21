@@ -19,7 +19,7 @@ class Model {
 
     // get json, decode, forward.
     public function getFeedData() {
-        $url = self::BASE_URL . $this->feedID . "/feed?" . $this->options;
+        $url = self::BASE_URL . $this->feedID . "/feed" . $this->options;
         $json = file_get_contents($url);
         // printing this out on the page, so its easy to see and test what url was used.
         echo "Assembled Url : ".$url;
