@@ -6,7 +6,7 @@
     <body style="font-family:Verdana;color:black;">
 
         <div style="background-color:#1AF5D4;;padding:15px;text-align:center;">
-            <h1> Results </h1>
+            <h1> Asset Details </h1>
         </div>
 
         <div style="overflow:auto">
